@@ -1,0 +1,6 @@
+C:\Users\dracos\Documents\Visual Studio 2008\Projects\DracosGameLibrary\DracosGameLibrary\bin\x86\Release\DracosGameLibrary.dll
+C:\Users\dracos\Documents\Visual Studio 2008\Projects\DracosGameLibrary\DracosGameLibrary\bin\x86\Release\DracosGameLibrary.pdb
+C:\Users\dracos\Documents\Visual Studio 2008\Projects\DracosGameLibrary\DracosGameLibrary\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\dracos\Documents\Visual Studio 2008\Projects\DracosGameLibrary\DracosGameLibrary\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\dracos\Documents\Visual Studio 2008\Projects\DracosGameLibrary\DracosGameLibrary\obj\x86\Release\DracosGameLibrary.dll
+C:\Users\dracos\Documents\Visual Studio 2008\Projects\DracosGameLibrary\DracosGameLibrary\obj\x86\Release\DracosGameLibrary.pdb
