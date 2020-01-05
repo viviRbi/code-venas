@@ -2,6 +2,7 @@ import { Router } from 'express';
 import * as CompanyController from '../controllers/company.controller';
 const router = new Router();
 
+router.route('/pizza').get(CompaniesController.pizza)
 // Get all Companies
 router.route('/getCompanies').get(CompanyController.getCompanies);
 

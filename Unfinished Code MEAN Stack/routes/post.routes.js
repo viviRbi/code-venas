@@ -2,6 +2,8 @@ import { Router } from 'express';
 import * as PostControllerMessage from '../controllers/postMessage.controller';
 const router = new Router();
 
+
+
 //getMessage
 router.route('/getMessage/:param').get(PostControllerMessage.getMessage);
 
